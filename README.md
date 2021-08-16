@@ -1,5 +1,5 @@
 # EEG-classification-of-BCI-competition-
-Mohammad Hasan Abbasi
+
 
 Final project of machine Learning course.
 
@@ -12,8 +12,8 @@ you should install jupyter notebook and write `jupyter notebook ` in command lin
 
 then select and run `main.ipynb`
 
-you can change and debug and creat your own models in seperate `.py` files and import them in `main.ipynb`
+you can change and debug and create your own models in seperated `.py` files and import them in `main.ipynb`
 
-have fun!
 
+Mohammad Hasan Abbasi
 2020-2021
