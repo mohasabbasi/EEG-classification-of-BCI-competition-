@@ -14,7 +14,8 @@ you can change and debug and create your own models in seperated `.py` files and
 
 
 Mohammad Hasan Abbasi
+
 2020-2021
 
-shape of data would be something like this:
+
 ![alt text](https://github.com/MohammadHasanAbbasi/EEG-classification-of-BCI-competition-/blob/main/figure-3.png "Shape of input data")
