@@ -9,6 +9,11 @@ for dataset just use npz files of this [repository](https://github.com/bregydoc/
 
 for running the code:
 you should install jupyter notebook and write `jupyter notebook ` in command line.
-then run `main.ipynb`
+
+then select and run `main.ipynb`
+
+you can change and debug and creat your own models in seperate `.py` files and import them in `main.ipynb`
+
 have fun!
+
 2020-2021
